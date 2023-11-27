@@ -31,6 +31,9 @@
 
 * [[CaFo](https://github.com/OpenGVLab/CaFo)] ![GitHub Org's stars](https://img.shields.io/github/stars/OpenGVLab%2FCaFo?style=social) [Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners](https://arxiv.org/pdf/2303.02151.pdf), CVPR 2023. 
 
+* [[APE](https://github.com/yangyangyang127/APE)] ![GitHub Org's stars](https://img.shields.io/github/stars/yangyangyang127%2FAPE?style=social)
+ [Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement](https://arxiv.org/pdf/2304.01195.pdf), ICCV 2023.
+
 * [[Proto-CLIP](https://github.com/IRVLUTD/Proto-CLIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/IRVLUTD%2FProto-CLIP?style=social) [Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning](https://arxiv.org/abs/2307.03073), arXiv 2307. 
 
 ## Zero-shot Learning
