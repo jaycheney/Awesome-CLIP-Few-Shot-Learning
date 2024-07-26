@@ -36,7 +36,11 @@
 * [[APE](https://github.com/yangyangyang127/APE)] ![GitHub Org's stars](https://img.shields.io/github/stars/yangyangyang127%2FAPE?style=social) [Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement](https://arxiv.org/pdf/2304.01195.pdf), ICCV 2023.
 * [[PRO](https://github.com/mlvlab/RPO)] ![GitHub Org's stars](https://img.shields.io/github/stars/mlvlab%2FRPO?style=social) [Read-only Prompt Optimization for Vision-Language Few-shot Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Read-only_Prompt_Optimization_for_Vision-Language_Few-shot_Learning_ICCV_2023_paper.pdf), ICCV 2023.
 
-* [[Proto-CLIP](https://github.com/IRVLUTD/Proto-CLIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/IRVLUTD%2FProto-CLIP?style=social) [Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning](https://arxiv.org/abs/2307.03073), arXiv 2307. 
+* [[Proto-CLIP](https://github.com/IRVLUTD/Proto-CLIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/IRVLUTD%2FProto-CLIP?style=social) [Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning](https://arxiv.org/abs/2307.03073), arXiv 2307, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
+
+* [[GraphAdapter](https://github.com/lixinustc/GraphAdapter)]![GitHub Org's stars](https://img.shields.io/github/stars/lixinustc%2FGraphAdapter
+)[GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph
+](https://arxiv.org/abs/2309.13625), NeurIPS 2023.
 
 ## Zero-shot Learning
 * [[CALIP](https://github.com/ZiyuGuo99/CALIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/ZiyuGuo99%2FCALIP?style=social) [CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention](https://arxiv.org/abs/2209.14169), AAAI 2023.
