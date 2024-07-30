@@ -55,9 +55,8 @@ Contrastive Learning with Augmented Prompts](https://arxiv.org/pdf/2311.16445), 
 ) [Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models
 ](https://arxiv.org/pdf/2403.17589), CVPR 2024.
 
-* [[AMU-Tuning](https://github.com/YBZh/DMN)] ![GitHub Org's stars](https://img.shields.io/github/stars/YBZh%2FDMN
-) [Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models
-](https://arxiv.org/pdf/2403.17589), CVPR 2024.
+* [[AMU-Tuning](https://github.com/TJU-sjyj/AMU-Tuning)] ![GitHub Org's stars](https://img.shields.io/github/stars/TJU-sjyj%2FAMU-Tuning) [AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning
+](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_AMU-Tuning_Effective_Logit_Bias_for_CLIP-based_Few-shot_Learning_CVPR_2024_paper.pdf), CVPR 2024.
 
 ## Zero-shot Learning
 * [[TPT](https://github.com/azshue/TPT)] ![GitHub Org's stars](https://img.shields.io/github/stars/azshue%2FTPT) [Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models
