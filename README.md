@@ -38,12 +38,44 @@
 
 * [[Proto-CLIP](https://github.com/IRVLUTD/Proto-CLIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/IRVLUTD%2FProto-CLIP?style=social) [Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning](https://arxiv.org/abs/2307.03073), arXiv 2307, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
-* [[GraphAdapter](https://github.com/lixinustc/GraphAdapter)]![GitHub Org's stars](https://img.shields.io/github/stars/lixinustc%2FGraphAdapter
-)[GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph
+* [[GraphAdapter](https://github.com/lixinustc/GraphAdapter)] ![GitHub Org's stars](https://img.shields.io/github/stars/lixinustc%2FGraphAdapter
+) [GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph
 ](https://arxiv.org/abs/2309.13625), NeurIPS 2023.
 
+* [[Meta-Adapter](https://github.com/ArsenalCheng/Meta-Adapter)] ![GitHub Org's stars](https://img.shields.io/github/stars/ArsenalCheng%2FMeta-Adapter
+) [Meta-Adapter: An Online Few-shot Learner for Vision-Language Model
+](https://arxiv.org/pdf/2311.03774), NeurIPS 2023.
+
+* [[CLAP](https://github.com/YichaoCai1/CLAP)] ![GitHub Org's stars](https://img.shields.io/github/stars/YichaoCai1%2FCLAP) [CLAP: Isolating Content from Style through
+Contrastive Learning with Augmented Prompts](https://arxiv.org/pdf/2311.16445), ECCV 2024.
+
+* [[MTA](https://github.com/MaxZanella/MTA)] ![GitHub Org's stars](https://img.shields.io/github/stars/MaxZanella%2FMTA) [On the Test-Time Zero-Shot Generalization of Vision-Language Models: Do We Really Need Prompt Learning?](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_On_the_Test-Time_Zero-Shot_Generalization_of_Vision-Language_Models_Do_We_CVPR_2024_paper.pdf), CVPR 2024.
+
+* [[DMN](https://github.com/YBZh/DMN)] ![GitHub Org's stars](https://img.shields.io/github/stars/YBZh%2FDMN
+) [Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models
+](https://arxiv.org/pdf/2403.17589), CVPR 2024.
+
+* [[AMU-Tuning](https://github.com/YBZh/DMN)] ![GitHub Org's stars](https://img.shields.io/github/stars/YBZh%2FDMN
+) [Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models
+](https://arxiv.org/pdf/2403.17589), CVPR 2024.
+
 ## Zero-shot Learning
+* [[TPT](https://github.com/azshue/TPT)] ![GitHub Org's stars](https://img.shields.io/github/stars/azshue%2FTPT) [Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models
+](https://arxiv.org/pdf/2209.07511.pdf), NeurIPS 2022.
+
+* [[ProDA](https://github.com/bbbdylan/proda)] ![GitHub Org's stars](https://img.shields.io/github/stars/bbbdylan%2Fproda) [Prompt Distribution Learning](vhttps://arxiv.org/abs/2205.03340), CVPR 2022.
+
+* [[DiffTPT](https://github.com/chunmeifeng/DiffTPT)] ![GitHub Org's stars](https://img.shields.io/github/stars/chunmeifeng%2FDiffTPT) [Diverse Data Augmentation with Diffusions for Effective
+Test-time Prompt Tuning](https://arxiv.org/pdf/2308.06038), ICCV 2023.
+
+* [[MaPLe](https://github.com/muzairkhattak/multimodal-prompt-learning)] ![GitHub Org's stars](https://img.shields.io/github/stars/muzairkhattak%2Fmultimodal-prompt-learning) [MaPLe: Multi-modal Prompt Learning
+](https://arxiv.org/abs/2210.03117), CVPR 2023.
+
+* [[PromptSRC](https://github.com/muzairkhattak/PromptSRC)] ![GitHub Org's stars](https://img.shields.io/github/stars/muzairkhattak%2FPromptSRC) [Self-regulating Prompts: Foundational Model Adaptation without Forgetting
+](https://arxiv.org/abs/2307.06948), ICCV 2023.
+
 * [[CALIP](https://github.com/ZiyuGuo99/CALIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/ZiyuGuo99%2FCALIP?style=social) [CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention](https://arxiv.org/abs/2209.14169), AAAI 2023.
+
 * [[CuPL](https://github.com/sarahpratt/CuPL)] ![GitHub Org's stars](https://img.shields.io/github/stars/sarahpratt%2FCuPL?style=social) Generating customized prompts for zero-shot image classification. 
 
 ## Fine-tuning
