@@ -36,7 +36,7 @@
 * [[APE](https://github.com/yangyangyang127/APE)] ![GitHub Org's stars](https://img.shields.io/github/stars/yangyangyang127%2FAPE?style=social) [Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement](https://arxiv.org/pdf/2304.01195.pdf), ICCV 2023.
 * [[PRO](https://github.com/mlvlab/RPO)] ![GitHub Org's stars](https://img.shields.io/github/stars/mlvlab%2FRPO?style=social) [Read-only Prompt Optimization for Vision-Language Few-shot Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Read-only_Prompt_Optimization_for_Vision-Language_Few-shot_Learning_ICCV_2023_paper.pdf), ICCV 2023.
 
-* [[Proto-CLIP](https://github.com/IRVLUTD/Proto-CLIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/IRVLUTD%2FProto-CLIP?style=social) [Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning](https://arxiv.org/abs/2307.03073), arXiv 2307, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
+* [[Proto-CLIP](https://github.com/IRVLUTD/Proto-CLIP)] ![GitHub Org's stars](https://img.shields.io/github/stars/IRVLUTD%2FProto-CLIP?style=social) [Proto-CLIP: Vision-Language Prototypical Network for Few-Shot Learning](https://arxiv.org/abs/2307.03073), IROS 2024. 
 
 * [[GraphAdapter](https://github.com/lixinustc/GraphAdapter)] ![GitHub Org's stars](https://img.shields.io/github/stars/lixinustc%2FGraphAdapter
 ) [GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph
@@ -58,6 +58,8 @@ Contrastive Learning with Augmented Prompts](https://arxiv.org/pdf/2311.16445), 
 * [[AMU-Tuning](https://github.com/TJU-sjyj/AMU-Tuning)] ![GitHub Org's stars](https://img.shields.io/github/stars/TJU-sjyj%2FAMU-Tuning) [AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning
 ](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_AMU-Tuning_Effective_Logit_Bias_for_CLIP-based_Few-shot_Learning_CVPR_2024_paper.pdf), CVPR 2024.
 
+* [DAC]  [Domain Aligned CLIP for Few-shot Classification](https://openaccess.thecvf.com/content/WACV2024/html/Gondal_Domain_Aligned_CLIP_for_Few-Shot_Classification_WACV_2024_paper.html), WACV 2024.
+
 ## Zero-shot Learning
 * [[TPT](https://github.com/azshue/TPT)] ![GitHub Org's stars](https://img.shields.io/github/stars/azshue%2FTPT) [Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models
 ](https://arxiv.org/pdf/2209.07511.pdf), NeurIPS 2022.
@@ -77,6 +79,8 @@ Test-time Prompt Tuning](https://arxiv.org/pdf/2308.06038), ICCV 2023.
 
 * [[CuPL](https://github.com/sarahpratt/CuPL)] ![GitHub Org's stars](https://img.shields.io/github/stars/sarahpratt%2FCuPL?style=social) Generating customized prompts for zero-shot image classification. 
 
+* [[OnZeta](https://github.com/idstcv/OnZeta)] ![GitHub Org's stars](https://img.shields.io/github/stars/idstcv%2FOnZeta
+) [Online Zero-Shot Classification with CLIP](https://arxiv.org/pdf/2408.13320), ECCV 2024.
 ## Fine-tuning
 
 * [[WiSE-FT](https://github.com/mlfoundations/wise-ft)] ![GitHub Org's stars](https://img.shields.io/github/stars/mlfoundations%2Fwise-ft?style=social) [Robust fine-tuning of zero-shot models](https://arxiv.org/abs/2109.01903), CVPR 2022.
